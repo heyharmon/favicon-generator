@@ -7,12 +7,12 @@ This is a Node.js service that converts a PNG image into a .ico favicon file. Up
 end a POST request to /convert with a PNG file attached as file. The service will return the .ico file as a response.
 
 ## Running Locally
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+Install dependencies:
+```bash
+npm install
+```
 
-2. Run locally
+Run locally
 ```bash
 npm run dev
 ```
